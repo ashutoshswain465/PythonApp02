@@ -20,10 +20,6 @@ with col2:
     a B.Tech in Electrical and Electronics Engineering from ITER, S'O'A University, I’ve built a strong technical 
     foundation that I’m eager to expand.
     
-    Beyond work, you’ll often find me immersed in self-development books like Atomic Habits, fueling my commitment to 
-    growth and excellence. My calm demeanor and drive to improve continuously define who I am, both personally and 
-    professionally.
-    
     This portfolio showcases my journey, skills, and projects that speak to my dedication and ambition. Whether it’s 
     securing systems or creating value through technology, I’m ready to make an impact.
     Thanks for stopping by—I’d love to connect and collaborate!"""
